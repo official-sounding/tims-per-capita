@@ -1,0 +1,1 @@
+public record PopulationRecord(string City, int Pop2026, double GrowthRate);
