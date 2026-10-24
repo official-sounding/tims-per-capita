@@ -7887,7 +7887,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Fort Nelson",
+                "city": "Northern Rockies",
                 "address": "5000 Cordova Way, Fort Nelson BC V0C 1R0"
             }
         },
@@ -7902,8 +7902,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Fort St John",
-                "address": "10540 100th St, Fort St John BC V1J 1Z2"
+                "city": "Fort St. John",
+                "address": "10540 100th St, Fort St. John BC V1J 1Z2"
             }
         },
         {
@@ -7917,8 +7917,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Fort St John",
-                "address": "8804 96a St, Fort St John BC V1J 6E2"
+                "city": "Fort St. John",
+                "address": "8804 96a St, Fort St. John BC V1J 6E2"
             }
         },
         {
@@ -7932,7 +7932,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Fort St John",
+                "city": "Fort St. John",
                 "address": "9704 112th St, Fort St. John BC V1J 7C7"
             }
         },
@@ -7947,8 +7947,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Garibaldi Highlands",
-                "address": "1811 Garibaldi Way, Garibaldi Highlands BC V0N 1T0"
+                "city": "Squamish",
+                "address": "1811 Garibaldi Way, Squamish BC V0N 1T0"
             }
         },
         {
@@ -8862,8 +8862,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Lazo",
-                "address": "Comox Retail, 1625 Military Row, Building 310, Unit 1, Lazo BC V0R 2K0"
+                "city": "Commox",
+                "address": "Comox Retail, 1625 Military Row, Building 310, Unit 1, Commox BC V0R 2K0"
             }
         },
         {
@@ -8997,7 +8997,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Mill Bay",
+                "city": "Cowichan Valley A",
                 "address": "825 Deloume Rd, Mill Bay BC V0R 2P0"
             }
         },
@@ -11952,7 +11952,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Westbank",
+                "city": "West Kelowna",
                 "address": "2330 Hwy 97 South, Unit 200, Westbank BC V4T 2P3"
             }
         },
@@ -11967,7 +11967,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Westbank",
+                "city": "West Kelowna",
                 "address": "3470 Carrington Rd, Westbank BC V4T 3C1"
             }
         },
@@ -12237,7 +12237,7 @@
             },
             "properties": {
                 "province": "Manitoba",
-                "city": "Elie",
+                "city": "Cartier",
                 "address": "Tch 1 & Provincial Rd 248, Box 408, Elie MB R0H 0H0"
             }
         },
@@ -12252,7 +12252,7 @@
             },
             "properties": {
                 "province": "Manitoba",
-                "city": "Fort Alexander",
+                "city": "Fort Alexander 3",
                 "address": "327 Southshore Rd, Box 1, Fort Alexander MB R0E 0P0"
             }
         },
@@ -31122,7 +31122,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "10700 Bathurst St, Maple ON L6A 4B6"
             }
         },
@@ -31137,7 +31137,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "10750 Jane St, Maple ON L6A 3B1"
             }
         },
@@ -31152,7 +31152,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "1500 Major Mackenzie Drive W, Maple ON L6A 0A9"
             }
         },
@@ -31167,7 +31167,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "3100 Major Mackenzie Dr, Maple ON L6A 1S1"
             }
         },
@@ -31182,7 +31182,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "3200 Major Mackenzie Dr, Maple ON L6A 5A9"
             }
         },
@@ -31197,7 +31197,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "9580 Jane St, Maple ON L6A 1S6"
             }
         },
@@ -31212,7 +31212,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "995 Major Mackenzie Drive West, Maple ON L6A 4P8"
             }
         },
@@ -31227,7 +31227,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "Southbound, Maple ON L6A 1S8"
             }
         },
@@ -31242,7 +31242,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": "400 Southbound, Maple ON L6A 1S8"
             }
         },
@@ -31257,7 +31257,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Maple",
+                "city": "Vaughn",
                 "address": " Ontario"
             }
         },
@@ -42657,8 +42657,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "102 Hwy 8, Stoney Creek ON L8G 4H3"
+                "city": "Hamilton",
+                "address": "102 Hwy 8, Hamilton ON L8G 4H3"
             }
         },
         {
@@ -42672,8 +42672,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "1242 Highway #8, -, Stoney Creek ON L8G 1B9"
+                "city": "Hamilton",
+                "address": "1242 Highway #8, -, Hamilton ON L8G 1B9"
             }
         },
         {
@@ -42687,8 +42687,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "1354 South Service Road, Stoney Creek ON L8E 5L1"
+                "city": "Hamilton",
+                "address": "1354 South Service Road, Hamilton ON L8E 5L1"
             }
         },
         {
@@ -42702,8 +42702,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "1712 Stone Church Road East, Stoney Creek ON L8J 0B4"
+                "city": "Hamilton",
+                "address": "1712 Stone Church Road East, Hamilton ON L8J 0B4"
             }
         },
         {
@@ -42717,8 +42717,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "1799 Stone Church Rd East, Stoney Creek ON L8J 0B4"
+                "city": "Hamilton",
+                "address": "1799 Stone Church Rd East, Hamilton ON L8J 0B4"
             }
         },
         {
@@ -42732,8 +42732,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "244 Highway 20 South, Stoney Creek ON L8J 2V6"
+                "city": "Hamilton",
+                "address": "244 Highway 20 South, Hamilton ON L8J 2V6"
             }
         },
         {
@@ -42747,8 +42747,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "249 Highway 20 South, Stoney Creek ON L8J 2V7"
+                "city": "Hamilton",
+                "address": "249 Highway 20 South, Hamilton ON L8J 2V7"
             }
         },
         {
@@ -42762,8 +42762,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "327 Fruitland Rd, Stoney Creek ON L6E 5M8"
+                "city": "Hamilton",
+                "address": "327 Fruitland Rd, Hamilton ON L6E 5M8"
             }
         },
         {
@@ -42777,8 +42777,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "529 Hwy #8, Stoney Creek ON L8G 5B9"
+                "city": "Hamilton",
+                "address": "529 Hwy #8, Hamilton ON L8G 5B9"
             }
         },
         {
@@ -42792,8 +42792,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "620 South Service Road, Stoney Creek ON L8E 2W1"
+                "city": "Hamilton",
+                "address": "620 South Service Road, Hamilton ON L8E 2W1"
             }
         },
         {
@@ -42807,8 +42807,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Stoney Creek",
-                "address": "Stoney Creek Campus, Stoney Creek ON L8E 2L7"
+                "city": "Hamilton",
+                "address": "Hamilton Campus, Hamilton ON L8E 2L7"
             }
         },
         {
@@ -42987,7 +42987,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1003 Kingsway, Sudbury ON P3B 2E6"
             }
         },
@@ -43002,7 +43002,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1050 Notre Dame, Sudbury ON P3A 2T4"
             }
         },
@@ -43017,7 +43017,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1205 Falconbridge Highway, Sudbury ON P3A 4N4"
             }
         },
@@ -43032,7 +43032,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1349 Lasalle Blvd, Sudbury ON P3A 1Z2"
             }
         },
@@ -43047,7 +43047,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1373 Martindale Rd, Sudbury ON P3E 4J7"
             }
         },
@@ -43062,7 +43062,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1400 Barrydowne Rd, Sudbury ON P3A 3V8"
             }
         },
@@ -43077,7 +43077,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1486 Lasalle Blvd, Sudbury ON P3A 2M4"
             }
         },
@@ -43092,7 +43092,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "180 Lasalle Blvd, Sudbury ON P3A 4Z3"
             }
         },
@@ -43107,7 +43107,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "1813 Regent St South, Sudbury ON P3E 3Z7"
             }
         },
@@ -43122,7 +43122,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "196 Cedar St, Sudbury ON P3E 1B4"
             }
         },
@@ -43137,7 +43137,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "2040 Algonquin Rd, Unit 25, Sudbury ON P3E 4Z6"
             }
         },
@@ -43152,7 +43152,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "2689 Kingsway, Sudbury ON P3B 2G1"
             }
         },
@@ -43167,7 +43167,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "41 Ramsey Lake Rd, Sudbury ON P3E 5J1"
             }
         },
@@ -43182,7 +43182,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "465 Barrydowne Rd, Sudbury ON P3A 3T4"
             }
         },
@@ -43197,7 +43197,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "679 Lorne St, Sudbury ON P3C 4R4"
             }
         },
@@ -43212,7 +43212,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "885 Notre Dame Street, Sudbury ON P3A 2T2"
             }
         },
@@ -43227,7 +43227,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "970 Lorne St, Sudbury ON P3C 4R9"
             }
         },
@@ -43242,7 +43242,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "935 Ramsey Lake Road, Sudbury ON P3E 6H6"
             }
         },
@@ -43257,7 +43257,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "935 Ramsey Lake Road, Sudbury ON P3E 2C6"
             }
         },
@@ -43272,7 +43272,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "Cambrian College, Sudbury ON P3A 3V8"
             }
         },
@@ -43287,7 +43287,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Sudbury",
+                "city": "Greater Sudbury",
                 "address": "Marek Hospitality Inc., Health Sciences North, Sudbury ON P3E 5J1"
             }
         },
@@ -43437,8 +43437,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Thornhill",
-                "address": "115 Times Ave, Unit 1, Thornhill ON L3T 0A2"
+                "city": "Markham",
+                "address": "115 Times Ave, Unit 1, Markham ON L3T 0A2"
             }
         },
         {
@@ -43452,7 +43452,7 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Thornhill",
+                "city": "Vaughan",
                 "address": "370-378 Steeles Ave W, Unit 1, Thornhill ON L4J 6X1"
             }
         },
@@ -43467,8 +43467,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Thornhill",
-                "address": "7689 Yonge St, Thornhill ON L3T 2C3"
+                "city": "Markham",
+                "address": "7689 Yonge St, Markham ON L3T 2C3"
             }
         },
         {
@@ -43482,8 +43482,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Thornhill",
-                "address": "9200 Bathurst St, Building E, Thornhill ON L4J 8W1"
+                "city": "Vaughan",
+                "address": "9200 Bathurst St, Building E, Vaughan ON L4J 8W1"
             }
         },
         {
@@ -49047,8 +49047,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "100 Whitmore Rd, Woodbridge ON L4L 7K4"
+                "city": "Vaughan",
+                "address": "100 Whitmore Rd, Vaughan ON L4L 7K4"
             }
         },
         {
@@ -49062,8 +49062,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "25 Woodstream Blvd, Woodbridge ON L4L 7Y8"
+                "city": "Vaughn",
+                "address": "25 Woodstream Blvd, Vaughn ON L4L 7Y8"
             }
         },
         {
@@ -49077,8 +49077,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "3650 Langstaff Rd, Building D, Woodbridge ON L4L 9A8"
+                "city": "Vaughn",
+                "address": "3650 Langstaff Rd, Building D, Vaughn ON L4L 9A8"
             }
         },
         {
@@ -49092,8 +49092,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "3650 Rutherford Road, Woodbridge ON L4H 0B9"
+                "city": "Vaughn",
+                "address": "3650 Rutherford Road, Vaughn ON L4H 0B9"
             }
         },
         {
@@ -49107,8 +49107,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "3764 Hwy 7, Woodbridge ON L4L 1A6"
+                "city": "Vaughn",
+                "address": "3764 Hwy 7, Vaughn ON L4L 1A6"
             }
         },
         {
@@ -49122,8 +49122,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "4515 Hwy 7, Woodbridge ON L4L 1S6"
+                "city": "Vaughn",
+                "address": "4515 Hwy 7, Vaughn ON L4L 1S6"
             }
         },
         {
@@ -49137,8 +49137,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "6161 Highway #7, Woodbridge ON L4H 0K9"
+                "city": "Vaughn",
+                "address": "6161 Highway #7, Vaughn ON L4H 0K9"
             }
         },
         {
@@ -49152,8 +49152,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "7018 Islington Avenue, Woodbridge ON L4L 1V8"
+                "city": "Vaughn",
+                "address": "7018 Islington Avenue, Vaughn ON L4L 1V8"
             }
         },
         {
@@ -49167,8 +49167,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "7501 Weston Rd, Woodbridge ON L4L 9K6"
+                "city": "Vaughn",
+                "address": "7501 Weston Rd, Vaughn ON L4L 9K6"
             }
         },
         {
@@ -49182,8 +49182,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "7766 Martin Grove Road, Woodbridge ON L4L 2C7"
+                "city": "Vaughn",
+                "address": "7766 Martin Grove Road, Vaughn ON L4L 2C7"
             }
         },
         {
@@ -49197,8 +49197,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "8000 Hwy 27, Building B, Woodbridge ON L4H 0A8"
+                "city": "Vaughn",
+                "address": "8000 Hwy 27, Building B, Vaughn ON L4H 0A8"
             }
         },
         {
@@ -49212,8 +49212,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Woodbridge",
-                "address": "9600 Islington Avenue, Bldg D Unit 3, Woodbridge ON L4H 2T1"
+                "city": "Vaughn",
+                "address": "9600 Islington Avenue, Bldg D Unit 3, Vaughn ON L4H 2T1"
             }
         },
         {
@@ -49887,8 +49887,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Anjou",
-                "address": "10005, Boul Louis H Lafontaine, Anjou QC H1J 2M5"
+                "city": "Montreal",
+                "address": "10005, Boul Louis H Lafontaine, Montreal QC H1J 2M5"
             }
         },
         {
@@ -49902,8 +49902,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Anjou",
-                "address": "7150 Rue Jarry Est, Anjou QC H1J 1G5"
+                "city": "Montreal",
+                "address": "7150 Rue Jarry Est, Montreal QC H1J 1G5"
             }
         },
         {
@@ -49917,8 +49917,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Anjou",
-                "address": "7295, Boul Des Galeries-danjou, Anjou QC H1M 2W2"
+                "city": "Montreal",
+                "address": "7295, Boul Des Galeries-dMontreal, Montreal QC H1M 2W2"
             }
         },
         {
@@ -49932,8 +49932,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Anjou",
-                "address": "7500, Boul Des Galeries-danjou, Anjou QC H1M 3M4"
+                "city": "Montreal",
+                "address": "7500, Boul Des Galeries-dMontreal, Montreal QC H1M 3M4"
             }
         },
         {
@@ -49947,8 +49947,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Anjou",
-                "address": "9201, Boul. Metropolitain, Anjou QC H1J 1K2"
+                "city": "Montreal",
+                "address": "9201, Boul. Metropolitain, Montreal QC H1J 1K2"
             }
         },
         {
@@ -49962,8 +49962,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Asbestos",
-                "address": "400 Boulevard St-luc, Asbestos QC J1T 2W2"
+                "city": "Val-des-Sources",
+                "address": "400 Boulevard St-luc, Val-des-Sources QC J1T 2W2"
             }
         },
         {
@@ -50698,7 +50698,7 @@
             "properties": {
                 "province": "Quebec",
                 "city": "Chateauguay",
-                "address": "251-a Boul D'anjou, Chateauguay QC J6J 2R4"
+                "address": "251-a Boul D'Montreal, Chateauguay QC J6J 2R4"
             }
         },
         {
@@ -50742,8 +50742,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "1050, Ste-genevieve, Chicoutimi QC G7G 2G6"
+                "city": "Saguenay",
+                "address": "1050, Ste-genevieve, Saguenay QC G7G 2G6"
             }
         },
         {
@@ -50757,8 +50757,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "1401 Boul Talbot, Chicoutimi QC G7H 6E1"
+                "city": "Saguenay",
+                "address": "1401 Boul Talbot, Saguenay QC G7H 6E1"
             }
         },
         {
@@ -50772,8 +50772,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "1494 Boul Talbot, Chicoutimi QC G7H 4C2"
+                "city": "Saguenay",
+                "address": "1494 Boul Talbot, Saguenay QC G7H 4C2"
             }
         },
         {
@@ -50787,8 +50787,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "1750 Boul St Paul, Chicoutimi QC G7J 4N1"
+                "city": "Saguenay",
+                "address": "1750 Boul St Paul, Saguenay QC G7J 4N1"
             }
         },
         {
@@ -50802,8 +50802,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "1997 Boul Talbot, Chicoutimi QC G7J 8C4"
+                "city": "Saguenay",
+                "address": "1997 Boul Talbot, Saguenay QC G7J 8C4"
             }
         },
         {
@@ -50817,8 +50817,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Chicoutimi",
-                "address": "2075 Tadoussac, Chicoutimi QC G7G 2V1"
+                "city": "Saguenay",
+                "address": "2075 Tadoussac, Saguenay QC G7G 2V1"
             }
         },
         {
@@ -50982,8 +50982,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Dollard-des-ormeaux",
-                "address": "1350 Boul Sunnybrooke, Dollard-des-ormeaux QC H9B 2W5"
+                "city": "Montreal",
+                "address": "1350 Boul Sunnybrooke, Montreal QC H9B 2W5"
             }
         },
         {
@@ -50997,8 +50997,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Dollard-des-ormeaux",
-                "address": "3340 Boul Des Sources, Dollard-des-ormeaux QC H9B 1Z9"
+                "city": "Montreal",
+                "address": "3340 Boul Des Sources, Montreal QC H9B 1Z9"
             }
         },
         {
@@ -51012,8 +51012,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Dollard-des-ormeaux",
-                "address": "3580 Boul St Jean, Dollard-des-ormeaux QC H9G 1W8"
+                "city": "Montreal",
+                "address": "3580 Boul St Jean, Montreal QC H9G 1W8"
             }
         },
         {
@@ -51027,8 +51027,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Dollard-des-ormeaux",
-                "address": "3760 Boul Des Sources, Dollard-des-ormeaux QC H9B 1Z9"
+                "city": "Montreal",
+                "address": "3760 Boul Des Sources, Montreal QC H9B 1Z9"
             }
         },
         {
@@ -51042,8 +51042,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Dollard-des-ormeaux",
-                "address": "4932, Boul. Des Sources, Dollard-des-ormeaux QC H8Y 3C9"
+                "city": "Montreal",
+                "address": "4932, Boul. Des Sources, Montreal QC H8Y 3C9"
             }
         },
         {
@@ -51882,8 +51882,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Jonquiere",
-                "address": "2390, Boul. Rene-levesque, Jonquiere QC G7S 5Y5"
+                "city": "Saguenay",
+                "address": "2390, Boul. Rene-levesque, Saguenay QC G7S 5Y5"
             }
         },
         {
@@ -51897,8 +51897,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Jonquiere",
-                "address": "2667 Boul Du Royaume, Jonquiere QC G7S 5B5"
+                "city": "Saguenay",
+                "address": "2667 Boul Du Royaume, Saguenay QC G7S 5B5"
             }
         },
         {
@@ -51912,8 +51912,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Jonquiere",
-                "address": "3587 Boul Harvey, Jonquiere QC G7X 3B5"
+                "city": "Saguenay",
+                "address": "3587 Boul Harvey, Saguenay QC G7X 3B5"
             }
         },
         {
@@ -51927,8 +51927,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Jonquiere",
-                "address": "3820 Boul. Harvey, Jonquiere QC G7X 8T5"
+                "city": "Saguenay",
+                "address": "3820 Boul. Harvey, Saguenay QC G7X 8T5"
             }
         },
         {
@@ -51942,8 +51942,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Jonquiere",
-                "address": "3895 Rue Des Mouettes, Jonquiere QC G7X 0M4"
+                "city": "Saguenay",
+                "address": "3895 Rue Des Mouettes, Saguenay QC G7X 0M4"
             }
         },
         {
@@ -53622,8 +53622,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Mont Saint-hilaire",
-                "address": "10 Rue Brunet, Mont Saint-hilaire QC J3H 0M7"
+                "city": "Mont-Saint-Hilaire",
+                "address": "10 Rue Brunet, Mont-Saint-Hilaire QC J3H 0M7"
             }
         },
         {
@@ -53637,7 +53637,7 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Mont Saint-hilaire",
+                "city": "Mont-Saint-Hilaire",
                 "address": "741 Sir Wilfrid Laurier Boul, Mont-saint-hilaire QC J3H 4X8"
             }
         },
@@ -54972,8 +54972,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Pierrefonds",
-                "address": "14810 Boul De Pierrefonds, Pierrefonds QC H9H 4Y6"
+                "city": "Montreal",
+                "address": "14810 Boul De Montreal, Montreal QC H9H 4Y6"
             }
         },
         {
@@ -54987,8 +54987,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Pierrefonds",
-                "address": "3650 Salaberry, Pierrefonds QC H8Y 3L4"
+                "city": "Montreal",
+                "address": "3650 Salaberry, Montreal QC H8Y 3L4"
             }
         },
         {
@@ -55002,8 +55002,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Pierrefonds",
-                "address": "3862 Boul St Charles, Pierrefonds QC H9H 3C3"
+                "city": "Montreal",
+                "address": "3862 Boul St Charles, Montreal QC H9H 3C3"
             }
         },
         {
@@ -55017,8 +55017,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Pierrefonds",
-                "address": "4750 Boulevard St-jean, Pierrefonds QC H9H 4B2"
+                "city": "Montreal",
+                "address": "4750 Boulevard St-jean, Montreal QC H9H 4B2"
             }
         },
         {
@@ -58017,8 +58017,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hubert",
-                "address": "1350 Boul Edouard, St-hubert QC J4T 3T2"
+                "city": "Longueuil",
+                "address": "1350 Boul Edouard, Longueuil QC J4T 3T2"
             }
         },
         {
@@ -58032,8 +58032,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hubert",
-                "address": "6250 Boul Cousineau, Unit 300, St-hubert QC J3Y 8X9"
+                "city": "Longueuil",
+                "address": "6250 Boul Cousineau, Unit 300, Longueuil QC J3Y 8X9"
             }
         },
         {
@@ -58047,8 +58047,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hyacinthe",
-                "address": "1450 Boul Casavant Est, St-hyacinthe QC J2S 0G2"
+                "city": "Saint-Hyacinthe",
+                "address": "1450 Boul Casavant Est, Saint-Hyacinthe QC J2S 0G2"
             }
         },
         {
@@ -58062,8 +58062,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hyacinthe",
-                "address": "16920 Ave St Louis, St-hyacinthe QC J2T 3G4"
+                "city": "Saint-Hyacinthe",
+                "address": "16920 Ave St Louis, Saint-Hyacinthe QC J2T 3G4"
             }
         },
         {
@@ -58077,8 +58077,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hyacinthe",
-                "address": "2505 Boul Casavant Ouest, St-hyacinthe QC J2S 8B8"
+                "city": "Saint-Hyacinthe",
+                "address": "2505 Boul Casavant Ouest, Saint-Hyacinthe QC J2S 8B8"
             }
         },
         {
@@ -58092,8 +58092,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hyacinthe",
-                "address": "3455 Boul. Laframboise, St-hyacinthe QC J2S 4Z8"
+                "city": "Saint-Hyacinthe",
+                "address": "3455 Boul. Laframboise, Saint-Hyacinthe QC J2S 4Z8"
             }
         },
         {
@@ -58107,8 +58107,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "St-hyacinthe",
-                "address": "3520 Boul Laframboise, St-hyacinthe QC J2R 1J9"
+                "city": "Saint-Hyacinthe",
+                "address": "3520 Boul Laframboise, Saint-Hyacinthe QC J2R 1J9"
             }
         },
         {
@@ -58422,8 +58422,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Témiscouata-sur-le-lac",
-                "address": "274-a Boul Phil-latulippe, Témiscouata-sur-le-lac QC G0L 1E0"
+                "city": "Temiscouata-sur-le-Lac",
+                "address": "274-a Boul Phil-latulippe, Temiscouata-sur-le-Lac QC G0L 1E0"
             }
         },
         {
@@ -58917,8 +58917,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Verdun",
-                "address": "1 Carrefour Alexander Graham Bell, Verdun QC J7Z 4V2"
+                "city": "Montreal",
+                "address": "1 Carrefour Alexander Graham Bell, Montreal QC J7Z 4V2"
             }
         },
         {
@@ -58932,8 +58932,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Verdun",
-                "address": "22 Place Du Commerce, Verdun QC H3E 1V7"
+                "city": "Montreal",
+                "address": "22 Place Du Commerce, Montreal QC H3E 1V7"
             }
         },
         {
@@ -58947,8 +58947,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Verdun",
-                "address": "30, Rue De L'eglise, Verdun QC H4G 2L9"
+                "city": "Montreal",
+                "address": "30, Rue De L'eglise, Montreal QC H4G 2L9"
             }
         },
         {
@@ -59202,8 +59202,8 @@
             },
             "properties": {
                 "province": "Saskatchewan",
-                "city": "Emerald Park",
-                "address": "20 Great Plains Rd, Suite B, Emerald Park SK S4L 1B6"
+                "city": "Edenwold No. 158",
+                "address": "20 Great Plains Rd, Suite B, Edenwold No. 158 SK S4L 1B6"
             }
         },
         {
@@ -59322,7 +59322,7 @@
             },
             "properties": {
                 "province": "Saskatchewan",
-                "city": "Kipling",
+                "city": "Moosomin",
                 "address": "526 Main St, Box 149, Kipling SK S0G 2S0"
             }
         },
@@ -60567,8 +60567,8 @@
             },
             "properties": {
                 "province": "Saskatchewan",
-                "city": "Whitecap",
-                "address": "204 Dakota Dunes Way, Whitecap SK S7K 2L2"
+                "city": "Whitecap Dakota First Nation",
+                "address": "204 Dakota Dunes Way, Whitecap Dakota First Nation SK S7K 2L2"
             }
         },
         {

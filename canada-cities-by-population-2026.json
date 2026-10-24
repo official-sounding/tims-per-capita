@@ -145,7 +145,7 @@
     "growthRate": 0.005401113600388419
   },
   {
-    "city": "Greater Sudbury / Grand Sudbury",
+    "city": "Greater Sudbury",
     "pop2026": 192465,
     "growthRate": 0.02101281670415478
   },
@@ -10015,5 +10015,25 @@
     "city": "Six Nations (Part) 40 (IRI), Haldimand-Norfolk",
     "pop2026": 1189,
     "growthRate": 0.023235800344234114
+  },
+  {
+    "city": "Mill Bay",
+    "pop2026": 7200,
+    "province": "British Columbia"
+  },
+  {
+    "city": "Whitecap Dakota First Nation",
+    "pop2026": 692,
+    "province": "Saskatchewan"
+  },
+  {
+    "city": "Pelican Narrows",
+    "pop2026": 123,
+    "province": "Saskatchewan"
+  },
+  {
+    "city": "Davidson",
+    "pop2026": 1025,
+    "province": "Saskatchewan"
   }
 ]
