@@ -2517,8 +2517,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Denwood",
-                "address": "Wainwright Supermart, Building 595, Denwood AB T0B 1B0"
+                "city": "Wainwright",
+                "address": "Wainwright Supermart, Building 595, Wainwright AB T0B 1B0"
             }
         },
         {
@@ -4347,8 +4347,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Fort Mckay",
-                "address": "Wood Buffalo, Fort Mckay AB M5B 2K3"
+                "city": "Wood Buffalo",
+                "address": "Wood Buffalo, Wood Buffalo AB M5B 2K3"
             }
         },
         {
@@ -4857,8 +4857,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Lac La Biche",
-                "address": "Beaverhill Rd & 91st Av, Lac La Biche AB T0A 2C0"
+                "city": "Lac La Biche County",
+                "address": "Beaverhill Rd & 91st Av, Lac La Biche County AB T0A 2C0"
             }
         },
         {
@@ -4887,8 +4887,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Lancaster Park",
-                "address": "Falaise Ave, Lancaster Park AB T0A 2H0"
+                "city": "Sturgeon County",
+                "address": "Falaise Ave, Sturgeon County AB T0A 2H0"
             }
         },
         {
@@ -5382,7 +5382,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Morley",
+                "city": "Bighorn No. 8",
                 "address": "100 Nakoda Way, Morley AB T0L 1N0"
             }
         },
@@ -5412,7 +5412,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Nisku",
+                "city": "Leduc County",
                 "address": "207 19th Avenue Nisku Industrial Park, Nisku AB T9E 0W8"
             }
         },
@@ -5577,7 +5577,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Ralston",
+                "city": "Cypress County",
                 "address": "Suffield Supermart, 48 Edgewood Road, Ralston AB T0J 2N0"
             }
         },
@@ -5937,8 +5937,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "101 Palisades Way Unit 25, Sherwood Park AB T8H 0N3"
+                "city": "Strathcona County",
+                "address": "101 Palisades Way Unit 25, Strathcona County AB T8H 0N3"
             }
         },
         {
@@ -5952,8 +5952,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "137 Main Blvd, Sherwood Park AB T8A 3P3"
+                "city": "Strathcona County",
+                "address": "137 Main Blvd, Strathcona County AB T8A 3P3"
             }
         },
         {
@@ -5967,8 +5967,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "2 Pembina Rd, Sherwood Park AB T8H 2G9"
+                "city": "Strathcona County",
+                "address": "2 Pembina Rd, Strathcona County AB T8H 2G9"
             }
         },
         {
@@ -5982,8 +5982,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "222 Baseline Rd, Unit 340, Sherwood Park AB T8H 1S8"
+                "city": "Strathcona County",
+                "address": "222 Baseline Rd, Unit 340, Strathcona County AB T8H 1S8"
             }
         },
         {
@@ -5997,8 +5997,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "590 Baseline Rd, Unit 240, Sherwood Park AB T8H 1Y4"
+                "city": "Strathcona County",
+                "address": "590 Baseline Rd, Unit 240, Strathcona County AB T8H 1Y4"
             }
         },
         {
@@ -6012,8 +6012,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "664 Wye Rd, Unit 100, Sherwood Park AB T8A 0Z1"
+                "city": "Strathcona County",
+                "address": "664 Wye Rd, Unit 100, Strathcona County AB T8A 0Z1"
             }
         },
         {
@@ -6027,8 +6027,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Sherwood Park",
-                "address": "8005 Emerald Dr, Unit 500, Sherwood Park AB T8H 1Y4"
+                "city": "Strathcona County",
+                "address": "8005 Emerald Dr, Unit 500, Strathcona County AB T8H 1Y4"
             }
         },
         {
@@ -6117,7 +6117,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "10 Rose Gate #310, St. Albert AB T8N 7Y3"
             }
         },
@@ -6132,7 +6132,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "2 Hebert Road, #800, St Albert AB T8N 5T8"
             }
         },
@@ -6147,7 +6147,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "205-975 St Albert Trail, St Albert AB T8N 4K6"
             }
         },
@@ -6162,7 +6162,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "275 Carnegie Drive, St Albert AB T8N 1M9"
             }
         },
@@ -6177,7 +6177,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "375 St Albert Trail, St. Albert AB T8N 3K8"
             }
         },
@@ -6192,7 +6192,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "470 St Albert Road, St Albert AB T8N 5J9"
             }
         },
@@ -6207,7 +6207,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "700 St Albert Trail, Unit 400, St Albert AB T8N 7A5"
             }
         },
@@ -6222,7 +6222,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Albert",
+                "city": "St. Albert",
                 "address": "770 St Albert Trail, St. Albert AB T8N 3P8"
             }
         },
@@ -6237,8 +6237,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "St Paul",
-                "address": "4210 50th Ave, St Paul AB T0A 3A2"
+                "city": "St. Paul",
+                "address": "4210 50th Ave, St. Paul AB T0A 3A2"
             }
         },
         {
@@ -6402,7 +6402,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Tar Island",
+                "city": "Fort McMurray",
                 "address": "2g2c+f2, Tar Island AB T9H 3E3"
             }
         },
@@ -6432,7 +6432,7 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Tsuut'ina",
+                "city": "Foothills County",
                 "address": "11503 Buffalo Run Blvd, Tsuut'ina AB T0L 1W0"
             }
         },
@@ -6492,8 +6492,8 @@
             },
             "properties": {
                 "province": "Alberta",
-                "city": "Wabamun",
-                "address": "4331 Hwy 16 W, Wabamun AB T0E 2K0"
+                "city": "Parkland County",
+                "address": "4331 Hwy 16 W, Parkland County AB T0E 2K0"
             }
         },
         {
@@ -6837,8 +6837,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Aldergrove",
-                "address": "26431 Fraser Highway, Aldergrove BC V4W 3E2"
+                "city": "Langley",
+                "address": "26431 Fraser Highway, Langley BC V4W 3E2"
             }
         },
         {
@@ -7407,7 +7407,7 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Cloverdale",
+                "city": "Surrey",
                 "address": "17888 56 Ave, Cloverdale BC V3S 1C7"
             }
         },
@@ -7767,8 +7767,8 @@
             },
             "properties": {
                 "province": "British Columbia",
-                "city": "Deroche",
-                "address": "41350 Lougheed Highway, Deroche BC V0M 1G0"
+                "city": "Fraser Valley G",
+                "address": "41350 Lougheed Highway, Fraser Valley G BC V0M 1G0"
             }
         },
         {
@@ -16182,8 +16182,8 @@
             },
             "properties": {
                 "province": "Newfoundland and Labrador",
-                "city": "Saint John's",
-                "address": "300 Prince Phillip Dr, Saint John's NL A1B 3V6"
+                "city": "Saint John",
+                "address": "300 Prince Phillip Dr, Saint John NL A1B 3V6"
             }
         },
         {
@@ -33942,8 +33942,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1 Rideaucrest Dr, Nepean ON K2G 6A4"
+                "city": "Ottawa",
+                "address": "1 Rideaucrest Dr, Ottawa ON K2G 6A4"
             }
         },
         {
@@ -33957,8 +33957,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "100 Bayshore Dr, Nepean ON K2B 8C1"
+                "city": "Ottawa",
+                "address": "100 Bayshore Dr, Ottawa ON K2B 8C1"
             }
         },
         {
@@ -33972,8 +33972,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1584 Merivale Rd, Nepean ON K2G 3K1"
+                "city": "Ottawa",
+                "address": "1584 Merivale Rd, Ottawa ON K2G 3K1"
             }
         },
         {
@@ -33987,8 +33987,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1611 Merivale Rd, Nepean ON K2G 3J4"
+                "city": "Ottawa",
+                "address": "1611 Merivale Rd, Ottawa ON K2G 3J4"
             }
         },
         {
@@ -34002,8 +34002,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1856 Robertson Rd, Nepean ON K2H 5B8"
+                "city": "Ottawa",
+                "address": "1856 Robertson Rd, Ottawa ON K2H 5B8"
             }
         },
         {
@@ -34017,8 +34017,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1857 Merivale Rd, Nepean ON K2G 1E3"
+                "city": "Ottawa",
+                "address": "1857 Merivale Rd, Ottawa ON K2G 1E3"
             }
         },
         {
@@ -34032,8 +34032,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1879 Robertson Rd, Nepean ON K2H 5B7"
+                "city": "Ottawa",
+                "address": "1879 Robertson Rd, Ottawa ON K2H 5B7"
             }
         },
         {
@@ -34047,8 +34047,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "1910 Merivale Rd, Nepean ON K2G 1E8"
+                "city": "Ottawa",
+                "address": "1910 Merivale Rd, Ottawa ON K2G 1E8"
             }
         },
         {
@@ -34062,8 +34062,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "2145 Robertson Rd, Nepean ON K2H 5Z2"
+                "city": "Ottawa",
+                "address": "2145 Robertson Rd, Ottawa ON K2H 5Z2"
             }
         },
         {
@@ -34077,8 +34077,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "250 Greenbank Rd, Nepean ON K2H 8X4"
+                "city": "Ottawa",
+                "address": "250 Greenbank Rd, Ottawa ON K2H 8X4"
             }
         },
         {
@@ -34092,8 +34092,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "3045 Baseline Rd, Nepean ON K2H 8P4"
+                "city": "Ottawa",
+                "address": "3045 Baseline Rd, Ottawa ON K2H 8P4"
             }
         },
         {
@@ -34107,8 +34107,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "3330 Fallowfield Rd, Nepean ON K2J 4P5"
+                "city": "Ottawa",
+                "address": "3330 Fallowfield Rd, Ottawa ON K2J 4P5"
             }
         },
         {
@@ -34122,8 +34122,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "350 Cresthaven, Unit 800, Nepean ON K2G 4S4"
+                "city": "Ottawa",
+                "address": "350 Cresthaven, Unit 800, Ottawa ON K2G 4S4"
             }
         },
         {
@@ -34137,8 +34137,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "3500 Carling Ave, Nepean ON K2H 8E9"
+                "city": "Ottawa",
+                "address": "3500 Carling Ave, Ottawa ON K2H 8E9"
             }
         },
         {
@@ -34152,8 +34152,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "3691 Strandherd Dr, Nepean ON K2J 4G8"
+                "city": "Ottawa",
+                "address": "3691 Strandherd Dr, Ottawa ON K2J 4G8"
             }
         },
         {
@@ -34167,8 +34167,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Nepean",
-                "address": "4295 Strandherd Drive, Nepean ON K2J 5P8"
+                "city": "Ottawa",
+                "address": "4295 Strandherd Drive, Ottawa ON K2J 5P8"
             }
         },
         {
@@ -34752,8 +34752,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Niagara On The Lake",
-                "address": "135 Taylor Rd, Niagara On The Lake ON L0S 1J0"
+                "city": "Niagara-on-the-Lake",
+                "address": "135 Taylor Rd, Niagara-on-the-Lake ON L0S 1J0"
             }
         },
         {
@@ -34767,8 +34767,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Niagara On The Lake",
-                "address": "1561 Niagara Stone Road, Niagara On The Lake ON L0S 1J0"
+                "city": "Niagara-on-the-Lake",
+                "address": "1561 Niagara Stone Road, Niagara-on-the-Lake ON L0S 1J0"
             }
         },
         {
@@ -34782,8 +34782,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Niagara On The Lake",
-                "address": "300 Taylor Rd, Unit 901, Niagara On The Lake ON L0S 1J0"
+                "city": "Niagara-on-the-Lake",
+                "address": "300 Taylor Rd, Unit 901, Niagara-on-the-Lake ON L0S 1J0"
             }
         },
         {
@@ -34797,8 +34797,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Niagara On The Lake",
-                "address": "443 Mississauga St, Niagara On The Lake ON L0S 1J0"
+                "city": "Niagara-on-the-Lake",
+                "address": "443 Mississauga St, Niagara-on-the-Lake ON L0S 1J0"
             }
         },
         {
@@ -34812,8 +34812,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Niagara On The Lake",
-                "address": "495 York Rd, Niagara On The Lake ON L0S 1J0"
+                "city": "Niagara-on-the-Lake",
+                "address": "495 York Rd, Niagara-on-the-Lake ON L0S 1J0"
             }
         },
         {
@@ -35052,8 +35052,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1 Yorkdale Rd, North York ON M6A 3A1"
+                "city": "Toronto",
+                "address": "1 Yorkdale Rd, Toronto ON M6A 3A1"
             }
         },
         {
@@ -35067,8 +35067,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1 Yorkgate Blvd, North York ON M3N 3A1"
+                "city": "Toronto",
+                "address": "1 Yorkgate Blvd, Toronto ON M3N 3A1"
             }
         },
         {
@@ -35082,8 +35082,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1050 Don Mills Rd, North York ON M3C 1W6"
+                "city": "Toronto",
+                "address": "1050 Don Mills Rd, Toronto ON M3C 1W6"
             }
         },
         {
@@ -35097,8 +35097,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1060 Finch Ave West, North York ON M3J 2E2"
+                "city": "Toronto",
+                "address": "1060 Finch Ave West, Toronto ON M3J 2E2"
             }
         },
         {
@@ -35112,8 +35112,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1275 Finch Avenue West,, North York ON M3J 2G5"
+                "city": "Toronto",
+                "address": "1275 Finch Avenue West,, Toronto ON M3J 2G5"
             }
         },
         {
@@ -35127,8 +35127,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1110 Don Mills Rd, North York ON M3C 1S7"
+                "city": "Toronto",
+                "address": "1110 Don Mills Rd, Toronto ON M3C 1S7"
             }
         },
         {
@@ -35142,8 +35142,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1244 Lawrence Ave East, North York ON M3A 1C3"
+                "city": "Toronto",
+                "address": "1244 Lawrence Ave East, Toronto ON M3A 1C3"
             }
         },
         {
@@ -35157,8 +35157,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1277 York Mills Rd Unit E5, Unit 5, North York ON M3A 1Z4"
+                "city": "Toronto",
+                "address": "1277 York Mills Rd Unit E5, Unit 5, Toronto ON M3A 1Z4"
             }
         },
         {
@@ -35172,8 +35172,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1280 Finch Ave W, Unit 108, North York ON M3J 3K6"
+                "city": "Toronto",
+                "address": "1280 Finch Ave W, Unit 108, Toronto ON M3J 3K6"
             }
         },
         {
@@ -35187,8 +35187,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1309 Lawrence Ave East, North York ON M3A 1C6"
+                "city": "Toronto",
+                "address": "1309 Lawrence Ave East, Toronto ON M3A 1C6"
             }
         },
         {
@@ -35202,8 +35202,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "145 Sir William Hearst Ave., North York ON M3M 0B6"
+                "city": "Toronto",
+                "address": "145 Sir William Hearst Ave., Toronto ON M3M 0B6"
             }
         },
         {
@@ -35217,8 +35217,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1493 Finch Ave, North York ON M3J 2G7"
+                "city": "Toronto",
+                "address": "1493 Finch Ave, Toronto ON M3J 2G7"
             }
         },
         {
@@ -35232,8 +35232,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1500 Finch Ave, North York ON M2J 4Y6"
+                "city": "Toronto",
+                "address": "1500 Finch Ave, Toronto ON M2J 4Y6"
             }
         },
         {
@@ -35247,8 +35247,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1533 Jane St, North York ON M6M 5J9"
+                "city": "Toronto",
+                "address": "1533 Jane St, Toronto ON M6M 5J9"
             }
         },
         {
@@ -35262,8 +35262,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1700 Wilson Ave, Unit 156c, Unit 156c, North York ON M3L 1B2"
+                "city": "Toronto",
+                "address": "1700 Wilson Ave, Unit 156c, Unit 156c, Toronto ON M3L 1B2"
             }
         },
         {
@@ -35277,8 +35277,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "171 Bentworth St, North York ON M6A 1P7"
+                "city": "Toronto",
+                "address": "171 Bentworth St, Toronto ON M6A 1P7"
             }
         },
         {
@@ -35292,8 +35292,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1725 Eglinton Ave East, North York ON M4A 1J6"
+                "city": "Toronto",
+                "address": "1725 Eglinton Ave East, Toronto ON M4A 1J6"
             }
         },
         {
@@ -35307,8 +35307,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1750 Finch Ave East, North York ON M2J 2X5"
+                "city": "Toronto",
+                "address": "1750 Finch Ave East, Toronto ON M2J 2X5"
             }
         },
         {
@@ -35322,8 +35322,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1840 Bayview Ave, North York ON M4G 3C9"
+                "city": "Toronto",
+                "address": "1840 Bayview Ave, Toronto ON M4G 3C9"
             }
         },
         {
@@ -35337,8 +35337,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1865-1871 Ave Rd, North York ON M5M 3Z7"
+                "city": "Toronto",
+                "address": "1865-1871 Ave Rd, Toronto ON M5M 3Z7"
             }
         },
         {
@@ -35352,8 +35352,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1869 Leslie St, North York ON M3B 2M3"
+                "city": "Toronto",
+                "address": "1869 Leslie St, Toronto ON M3B 2M3"
             }
         },
         {
@@ -35367,8 +35367,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "1900 O'connor Dr, North York ON M4A 1X2"
+                "city": "Toronto",
+                "address": "1900 O'connor Dr, Toronto ON M4A 1X2"
             }
         },
         {
@@ -35382,8 +35382,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2005 Avenue Rd., North York ON M5M 4A5"
+                "city": "Toronto",
+                "address": "2005 Avenue Rd., Toronto ON M5M 4A5"
             }
         },
         {
@@ -35397,8 +35397,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2013 Lawrence Ave West, North York ON M9N 0A3"
+                "city": "Toronto",
+                "address": "2013 Lawrence Ave West, Toronto ON M9N 0A3"
             }
         },
         {
@@ -35412,8 +35412,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2029 Jane St, North York ON M9N 2V4"
+                "city": "Toronto",
+                "address": "2029 Jane St, Toronto ON M9N 2V4"
             }
         },
         {
@@ -35427,8 +35427,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2050 Victoria Park Ave, North York ON M1R 1V2"
+                "city": "Toronto",
+                "address": "2050 Victoria Park Ave, Toronto ON M1R 1V2"
             }
         },
         {
@@ -35442,8 +35442,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2208 Jane St, North York ON M3M 1A4"
+                "city": "Toronto",
+                "address": "2208 Jane St, Toronto ON M3M 1A4"
             }
         },
         {
@@ -35457,8 +35457,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2225 Sheppard Ave East, North York ON M2J 4W6"
+                "city": "Toronto",
+                "address": "2225 Sheppard Ave East, Toronto ON M2J 4W6"
             }
         },
         {
@@ -35472,8 +35472,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2304 Sheppard Ave West, North York ON M9M 1M1"
+                "city": "Toronto",
+                "address": "2304 Sheppard Ave West, Toronto ON M9M 1M1"
             }
         },
         {
@@ -35487,8 +35487,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2355 Keele St, North York ON M6M 4A2"
+                "city": "Toronto",
+                "address": "2355 Keele St, Toronto ON M6M 4A2"
             }
         },
         {
@@ -35502,8 +35502,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2444 Finch Avenue West, North York ON M9M 2E9"
+                "city": "Toronto",
+                "address": "2444 Finch Avenue West, Toronto ON M9M 2E9"
             }
         },
         {
@@ -35517,8 +35517,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2625 G Weston Rd, Unit 1, North York ON M9N 3W1"
+                "city": "Toronto",
+                "address": "2625 G Weston Rd, Unit 1, Toronto ON M9N 3W1"
             }
         },
         {
@@ -35532,8 +35532,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "265 Yorkland Blvd, North York ON M2J 1S5"
+                "city": "Toronto",
+                "address": "265 Yorkland Blvd, Toronto ON M2J 1S5"
             }
         },
         {
@@ -35547,8 +35547,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "2708 Keele St, North York ON M3M 2G1"
+                "city": "Toronto",
+                "address": "2708 Keele St, Toronto ON M3M 2G1"
             }
         },
         {
@@ -35562,8 +35562,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "309 Finch Ave West, Ste C, North York ON M2R 1N2"
+                "city": "Toronto",
+                "address": "309 Finch Ave West, Ste C, Toronto ON M2R 1N2"
             }
         },
         {
@@ -35577,8 +35577,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3090 Bathurst St, North York ON M6A 2A1"
+                "city": "Toronto",
+                "address": "3090 Bathurst St, Toronto ON M6A 2A1"
             }
         },
         {
@@ -35592,8 +35592,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3140 Dufferin St, North York ON M6A 2T1"
+                "city": "Toronto",
+                "address": "3140 Dufferin St, Toronto ON M6A 2T1"
             }
         },
         {
@@ -35607,8 +35607,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3389 Steeles Ave East, North York ON M2H 3S7"
+                "city": "Toronto",
+                "address": "3389 Steeles Ave East, Toronto ON M2H 3S7"
             }
         },
         {
@@ -35622,8 +35622,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3400 Victoria Park Rd, North York ON M2H 2N5"
+                "city": "Toronto",
+                "address": "3400 Victoria Park Rd, Toronto ON M2H 2N5"
             }
         },
         {
@@ -35637,8 +35637,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3514 Weston Rd, North York ON M9L 1V6"
+                "city": "Toronto",
+                "address": "3514 Weston Rd, Toronto ON M9L 1V6"
             }
         },
         {
@@ -35652,8 +35652,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3685 Keele St, North York ON M3J 3H6"
+                "city": "Toronto",
+                "address": "3685 Keele St, Toronto ON M3J 3H6"
             }
         },
         {
@@ -35667,8 +35667,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3748 Bathurst Street, North York ON M3H 3M4"
+                "city": "Toronto",
+                "address": "3748 Bathurst Street, Toronto ON M3H 3M4"
             }
         },
         {
@@ -35682,8 +35682,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "3981 Jane St, North York ON M3N 2K1"
+                "city": "Toronto",
+                "address": "3981 Jane St, Toronto ON M3N 2K1"
             }
         },
         {
@@ -35697,8 +35697,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4000 Jane St, North York ON M3N 2K2"
+                "city": "Toronto",
+                "address": "4000 Jane St, Toronto ON M3N 2K2"
             }
         },
         {
@@ -35712,8 +35712,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4025 Yonge St, Suite 129, North York ON M2P 2E3"
+                "city": "Toronto",
+                "address": "4025 Yonge St, Suite 129, Toronto ON M2P 2E3"
             }
         },
         {
@@ -35727,8 +35727,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4110 Yonge St, North York ON M2P 2B7"
+                "city": "Toronto",
+                "address": "4110 Yonge St, Toronto ON M2P 2B7"
             }
         },
         {
@@ -35742,8 +35742,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4211 Keele St, North York ON M3J 1N9"
+                "city": "Toronto",
+                "address": "4211 Keele St, Toronto ON M3J 1N9"
             }
         },
         {
@@ -35757,8 +35757,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "461 Sheppard Ave East, North York ON M2N 3B3"
+                "city": "Toronto",
+                "address": "461 Sheppard Ave East, Toronto ON M2N 3B3"
             }
         },
         {
@@ -35772,8 +35772,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4696 Yonge St, North York ON M2N 5M2"
+                "city": "Toronto",
+                "address": "4696 Yonge St, Toronto ON M2N 5M2"
             }
         },
         {
@@ -35787,8 +35787,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4700 Keele St, North York ON M3J 1P3"
+                "city": "Toronto",
+                "address": "4700 Keele St, Toronto ON M3J 1P3"
             }
         },
         {
@@ -35802,8 +35802,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4700 Keele St, North York ON M3J 1P3"
+                "city": "Toronto",
+                "address": "4700 Keele St, Toronto ON M3J 1P3"
             }
         },
         {
@@ -35817,8 +35817,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4750 Yonge Street (at Bogert Ave) Unit 101, Unit 101, North York ON M2N 6G5"
+                "city": "Toronto",
+                "address": "4750 Yonge Street (at Bogert Ave) Unit 101, Unit 101, Toronto ON M2N 6G5"
             }
         },
         {
@@ -35832,8 +35832,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4751 Leslie St, North York ON M2J 2K8"
+                "city": "Toronto",
+                "address": "4751 Leslie St, Toronto ON M2J 2K8"
             }
         },
         {
@@ -35847,8 +35847,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4841 Yonge St, North York ON M2N 5X2"
+                "city": "Toronto",
+                "address": "4841 Yonge St, Toronto ON M2N 5X2"
             }
         },
         {
@@ -35862,8 +35862,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4901 Steeles Ave W Unit 1, North York ON M9L 2W1"
+                "city": "Toronto",
+                "address": "4901 Steeles Ave W Unit 1, Toronto ON M9L 2W1"
             }
         },
         {
@@ -35877,8 +35877,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4926 Bathurst St, North York ON M2R 1N2"
+                "city": "Toronto",
+                "address": "4926 Bathurst St, Toronto ON M2R 1N2"
             }
         },
         {
@@ -35892,8 +35892,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "4986 Yonge St, North York ON M2N 7G9"
+                "city": "Toronto",
+                "address": "4986 Yonge St, Toronto ON M2N 7G9"
             }
         },
         {
@@ -35907,8 +35907,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "500 Trethewey Dr, North York ON M6M 4C2"
+                "city": "Toronto",
+                "address": "500 Trethewey Dr, Toronto ON M6M 4C2"
             }
         },
         {
@@ -35922,8 +35922,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5095 Yonge St., North York ON M2N 6Z4"
+                "city": "Toronto",
+                "address": "5095 Yonge St., Toronto ON M2N 6Z4"
             }
         },
         {
@@ -35937,8 +35937,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "515 Drewry Ave, North York ON M2R 2K9"
+                "city": "Toronto",
+                "address": "515 Drewry Ave, Toronto ON M2R 2K9"
             }
         },
         {
@@ -35952,8 +35952,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5383 Yonge St, North York ON M2N 5R6"
+                "city": "Toronto",
+                "address": "5383 Yonge St, Toronto ON M2N 5R6"
             }
         },
         {
@@ -35967,8 +35967,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5571 Yonge St, North York ON M2G 5S4"
+                "city": "Toronto",
+                "address": "5571 Yonge St, Toronto ON M2G 5S4"
             }
         },
         {
@@ -35982,8 +35982,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5695 Yonge St, North York ON M2N 3T9"
+                "city": "Toronto",
+                "address": "5695 Yonge St, Toronto ON M2N 3T9"
             }
         },
         {
@@ -35997,8 +35997,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5695 Yonge St., North York ON M2M 3T2"
+                "city": "Toronto",
+                "address": "5695 Yonge St., Toronto ON M2M 3T2"
             }
         },
         {
@@ -36012,8 +36012,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5765 Yonge St, Apt 1401, North York ON M5H 2M5"
+                "city": "Toronto",
+                "address": "5765 Yonge St, Apt 1401, Toronto ON M5H 2M5"
             }
         },
         {
@@ -36027,8 +36027,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "5955 Leslie St, North York ON M2H 1J8"
+                "city": "Toronto",
+                "address": "5955 Leslie St, Toronto ON M2H 1J8"
             }
         },
         {
@@ -36042,8 +36042,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "6000 Dufferin St North, North York ON M3H 5T5"
+                "city": "Toronto",
+                "address": "6000 Dufferin St North, Toronto ON M3H 5T5"
             }
         },
         {
@@ -36057,8 +36057,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "6001 Yonge St, North York ON M2M 3W2"
+                "city": "Toronto",
+                "address": "6001 Yonge St, Toronto ON M2M 3W2"
             }
         },
         {
@@ -36072,8 +36072,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "6464 Yonge St, North York ON M2M 3X4"
+                "city": "Toronto",
+                "address": "6464 Yonge St, Toronto ON M2M 3X4"
             }
         },
         {
@@ -36087,8 +36087,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "680 Sheppard Ave West, North York ON M3H 2S5"
+                "city": "Toronto",
+                "address": "680 Sheppard Ave West, Toronto ON M3H 2S5"
             }
         },
         {
@@ -36102,8 +36102,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "70 Forest Manor Dr, Suite E, North York ON M2J 1G3"
+                "city": "Toronto",
+                "address": "70 Forest Manor Dr, Suite E, Toronto ON M2J 1G3"
             }
         },
         {
@@ -36117,8 +36117,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "770 Don Mills Rd, North York ON M3C 1T3"
+                "city": "Toronto",
+                "address": "770 Don Mills Rd, Toronto ON M3C 1T3"
             }
         },
         {
@@ -36132,8 +36132,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "770 Don Mills Road, North York ON M3C 1T3"
+                "city": "Toronto",
+                "address": "770 Don Mills Road, Toronto ON M3C 1T3"
             }
         },
         {
@@ -36147,8 +36147,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "793 Wilson Ave, North York ON M3K 1E4"
+                "city": "Toronto",
+                "address": "793 Wilson Ave, Toronto ON M3K 1E4"
             }
         },
         {
@@ -36162,8 +36162,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "8 Clock Tower Road, Shops At Don Mills, North York ON M3C 0G1"
+                "city": "Toronto",
+                "address": "8 Clock Tower Road, Shops At Don Mills, Toronto ON M3C 0G1"
             }
         },
         {
@@ -36177,8 +36177,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "800 Lawrence Ave E, North York ON M3C 1P4"
+                "city": "Toronto",
+                "address": "800 Lawrence Ave E, Toronto ON M3C 1P4"
             }
         },
         {
@@ -36192,8 +36192,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "860 York Mills Rd, North York ON M3B 1Y4"
+                "city": "Toronto",
+                "address": "860 York Mills Rd, Toronto ON M3B 1Y4"
             }
         },
         {
@@ -36207,8 +36207,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "895 Jane St, North York ON M6N 4C4"
+                "city": "Toronto",
+                "address": "895 Jane St, Toronto ON M6N 4C4"
             }
         },
         {
@@ -36222,8 +36222,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "901 Sheppard Ave West, North York ON M3H 2T7"
+                "city": "Toronto",
+                "address": "901 Sheppard Ave West, Toronto ON M3H 2T7"
             }
         },
         {
@@ -36237,8 +36237,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "Fairview Mall, 1800 Sheppard Ave. E, Unit 1049, North York ON M2J 5A7"
+                "city": "Toronto",
+                "address": "Fairview Mall, 1800 Sheppard Ave. E, Unit 1049, Toronto ON M2J 5A7"
             }
         },
         {
@@ -36252,8 +36252,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "Level 0, 1235 Wilson Avenue, Humber River Hospital, North York ON M3M 0B2"
+                "city": "Toronto",
+                "address": "Level 0, 1235 Wilson Avenue, Humber River Hospital, Toronto ON M3M 0B2"
             }
         },
         {
@@ -36267,8 +36267,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "Level 1, 1235 Wilson Avenue, Humber River Hospital, North York ON M3M 0B2"
+                "city": "Toronto",
+                "address": "Level 1, 1235 Wilson Avenue, Humber River Hospital, Toronto ON M3M 0B2"
             }
         },
         {
@@ -36282,8 +36282,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "North York",
-                "address": "Upstairs, 1st Floor West Entrance, North York ON M2K 1E1"
+                "city": "Toronto",
+                "address": "Upstairs, 1st Floor West Entrance, Toronto ON M2K 1E1"
             }
         },
         {
@@ -40662,8 +40662,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1 Eglinton Square, Unit 121, Scarborough ON M1L 2K1"
+                "city": "Toronto",
+                "address": "1 Eglinton Square, Unit 121, Toronto ON M1L 2K1"
             }
         },
         {
@@ -40677,8 +40677,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1 William Kitchen Rd, Scarborough ON M1P 5B7"
+                "city": "Toronto",
+                "address": "1 William Kitchen Rd, Toronto ON M1P 5B7"
             }
         },
         {
@@ -40692,8 +40692,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "100 Borough Dr, 1st Fl Cafeteria, Scarborough ON M1P 4W2"
+                "city": "Toronto",
+                "address": "100 Borough Dr, 1st Fl Cafeteria, Toronto ON M1P 4W2"
             }
         },
         {
@@ -40707,8 +40707,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1089 Kingston Rd, Scarborough ON M1N 4E4"
+                "city": "Toronto",
+                "address": "1089 Kingston Rd, Toronto ON M1N 4E4"
             }
         },
         {
@@ -40722,8 +40722,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1108 Pharmacy Ave, Scarborough ON M1R 2H3"
+                "city": "Toronto",
+                "address": "1108 Pharmacy Ave, Toronto ON M1R 2H3"
             }
         },
         {
@@ -40737,8 +40737,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1149 Morningside Ave, Scarborough ON M1B 5J3"
+                "city": "Toronto",
+                "address": "1149 Morningside Ave, Toronto ON M1B 5J3"
             }
         },
         {
@@ -40752,8 +40752,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1150 Markham Road, Scarborough ON M1H 2Y6"
+                "city": "Toronto",
+                "address": "1150 Markham Road, Toronto ON M1H 2Y6"
             }
         },
         {
@@ -40767,8 +40767,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1401 Ellesmere Rd, Scarborough ON M1P 4R4"
+                "city": "Toronto",
+                "address": "1401 Ellesmere Rd, Toronto ON M1P 4R4"
             }
         },
         {
@@ -40782,8 +40782,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1480 Kennedy Rd, Scarborough ON M1P 2L7"
+                "city": "Toronto",
+                "address": "1480 Kennedy Rd, Toronto ON M1P 2L7"
             }
         },
         {
@@ -40797,8 +40797,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1510 Markham Rd, Scarborough ON M1B 2V9"
+                "city": "Toronto",
+                "address": "1510 Markham Rd, Toronto ON M1B 2V9"
             }
         },
         {
@@ -40812,8 +40812,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1571 Sandhurst Circle, Unit 420, Scarborough ON M1V 1V2"
+                "city": "Toronto",
+                "address": "1571 Sandhurst Circle, Unit 420, Toronto ON M1V 1V2"
             }
         },
         {
@@ -40827,8 +40827,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1585 Warden Avenue, Unit A, Scarborough ON M1R 2S9"
+                "city": "Toronto",
+                "address": "1585 Warden Avenue, Unit A, Toronto ON M1R 2S9"
             }
         },
         {
@@ -40842,8 +40842,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1615 Ellesmere Rd, Scarborough ON M1P 2Y3"
+                "city": "Toronto",
+                "address": "1615 Ellesmere Rd, Toronto ON M1P 2Y3"
             }
         },
         {
@@ -40857,8 +40857,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1621 Birchmount Rd, Scarborough ON M1P 2J3"
+                "city": "Toronto",
+                "address": "1621 Birchmount Rd, Toronto ON M1P 2J3"
             }
         },
         {
@@ -40872,8 +40872,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1641 Markham Rd, Scarborough ON M1B 2W1"
+                "city": "Toronto",
+                "address": "1641 Markham Rd, Toronto ON M1B 2W1"
             }
         },
         {
@@ -40887,8 +40887,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1670 Mccowan Rd, Scarborough ON M1S 3L5"
+                "city": "Toronto",
+                "address": "1670 Mccowan Rd, Toronto ON M1S 3L5"
             }
         },
         {
@@ -40902,8 +40902,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1896 Eglinton Ave East, Scarborough ON M1L 2L9"
+                "city": "Toronto",
+                "address": "1896 Eglinton Ave East, Toronto ON M1L 2L9"
             }
         },
         {
@@ -40917,8 +40917,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1900 Midland Ave, Scarborough ON M1P 3E2"
+                "city": "Toronto",
+                "address": "1900 Midland Ave, Toronto ON M1P 3E2"
             }
         },
         {
@@ -40932,8 +40932,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "1977 Kennedy Rd, Scarborough ON M1P 2M1"
+                "city": "Toronto",
+                "address": "1977 Kennedy Rd, Toronto ON M1P 2M1"
             }
         },
         {
@@ -40947,8 +40947,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2044 Lawrence Ave East, Scarborough ON M1R 2Z3"
+                "city": "Toronto",
+                "address": "2044 Lawrence Ave East, Toronto ON M1R 2Z3"
             }
         },
         {
@@ -40962,8 +40962,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2294 Kingston Rd, Scarborough ON M1N 1T9"
+                "city": "Toronto",
+                "address": "2294 Kingston Rd, Toronto ON M1N 1T9"
             }
         },
         {
@@ -40977,8 +40977,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2301 Brimley Rd, Scarborough ON M1S 5B8"
+                "city": "Toronto",
+                "address": "2301 Brimley Rd, Toronto ON M1S 5B8"
             }
         },
         {
@@ -40992,8 +40992,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2363 Warden Ave, Scarborough ON M1T 1V7"
+                "city": "Toronto",
+                "address": "2363 Warden Ave, Toronto ON M1T 1V7"
             }
         },
         {
@@ -41007,8 +41007,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2370 Lawrence Ave East, Scarborough ON M1P 2R5"
+                "city": "Toronto",
+                "address": "2370 Lawrence Ave East, Toronto ON M1P 2R5"
             }
         },
         {
@@ -41022,8 +41022,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "240 Alton Towers Circle, Scarborough ON M1V 3Z3"
+                "city": "Toronto",
+                "address": "240 Alton Towers Circle, Toronto ON M1V 3Z3"
             }
         },
         {
@@ -41037,8 +41037,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2480 Gerrard St East, Scarborough ON M1N 4C3"
+                "city": "Toronto",
+                "address": "2480 Gerrard St East, Toronto ON M1N 4C3"
             }
         },
         {
@@ -41052,8 +41052,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2501 Victoria Park Ave, Scarborough ON M1T 1A1"
+                "city": "Toronto",
+                "address": "2501 Victoria Park Ave, Toronto ON M1T 1A1"
             }
         },
         {
@@ -41067,8 +41067,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2611 Lawrence Ave East, Scarborough ON M1P 2S2"
+                "city": "Toronto",
+                "address": "2611 Lawrence Ave East, Toronto ON M1P 2S2"
             }
         },
         {
@@ -41082,8 +41082,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2867 Ellesmere Rd, Scarborough ON M1E 4B9"
+                "city": "Toronto",
+                "address": "2867 Ellesmere Rd, Toronto ON M1E 4B9"
             }
         },
         {
@@ -41097,8 +41097,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2874 Eglinton Ave East, Scarborough ON M1J 2C8"
+                "city": "Toronto",
+                "address": "2874 Eglinton Ave East, Toronto ON M1J 2C8"
             }
         },
         {
@@ -41112,8 +41112,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2900 Warden Ave, Unit 149, Scarborough ON M1W 2S8"
+                "city": "Toronto",
+                "address": "2900 Warden Ave, Unit 149, Toronto ON M1W 2S8"
             }
         },
         {
@@ -41127,8 +41127,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "2908 Ellesmere Road, Scarborough ON M1E 4B8"
+                "city": "Toronto",
+                "address": "2908 Ellesmere Road, Toronto ON M1E 4B8"
             }
         },
         {
@@ -41142,8 +41142,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "300 Borough Dr, Scarborough ON M1P 4P5"
+                "city": "Toronto",
+                "address": "300 Borough Dr, Toronto ON M1P 4P5"
             }
         },
         {
@@ -41157,8 +41157,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "300 Borough Dr. Unit R005, Scarborough ON M1P 4P5"
+                "city": "Toronto",
+                "address": "300 Borough Dr. Unit R005, Toronto ON M1P 4P5"
             }
         },
         {
@@ -41172,8 +41172,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3030 Birchmount Rd, Scarborough ON M1M 3W3"
+                "city": "Toronto",
+                "address": "3030 Birchmount Rd, Toronto ON M1M 3W3"
             }
         },
         {
@@ -41187,8 +41187,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3090 Kingston Rd, Scarborough ON M1M 1P2"
+                "city": "Toronto",
+                "address": "3090 Kingston Rd, Toronto ON M1M 1P2"
             }
         },
         {
@@ -41202,8 +41202,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3101 Victoria Park Ave, Scarborough ON M1W 2T3"
+                "city": "Toronto",
+                "address": "3101 Victoria Park Ave, Toronto ON M1W 2T3"
             }
         },
         {
@@ -41217,8 +41217,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3270 Eglinton Ave East, Scarborough ON M1J 2H6"
+                "city": "Toronto",
+                "address": "3270 Eglinton Ave East, Toronto ON M1J 2H6"
             }
         },
         {
@@ -41232,8 +41232,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3276 St Clair Ave East, Scarborough ON M1L 1W1"
+                "city": "Toronto",
+                "address": "3276 St Clair Ave East, Toronto ON M1L 1W1"
             }
         },
         {
@@ -41247,8 +41247,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3353 Lawrence Ave E, Unit 1, Scarborough ON M1H 1A8"
+                "city": "Toronto",
+                "address": "3353 Lawrence Ave E, Unit 1, Toronto ON M1H 1A8"
             }
         },
         {
@@ -41262,8 +41262,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3465 Kingston Rd, Scarborough ON M1M 1R4"
+                "city": "Toronto",
+                "address": "3465 Kingston Rd, Toronto ON M1M 1R4"
             }
         },
         {
@@ -41277,8 +41277,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3488 Lawrence Ave E, Scarborough ON M1H 1A9"
+                "city": "Toronto",
+                "address": "3488 Lawrence Ave E, Toronto ON M1H 1A9"
             }
         },
         {
@@ -41292,8 +41292,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3495 Lawrence Ave East, Scarborough ON M1H 1B3"
+                "city": "Toronto",
+                "address": "3495 Lawrence Ave East, Toronto ON M1H 1B3"
             }
         },
         {
@@ -41307,8 +41307,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3566 St Clair Ave E, Scarborough ON M1K 1M2"
+                "city": "Toronto",
+                "address": "3566 St Clair Ave E, Toronto ON M1K 1M2"
             }
         },
         {
@@ -41322,8 +41322,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3600 Sheppard Ave East, Scarborough ON M1T 3K8"
+                "city": "Toronto",
+                "address": "3600 Sheppard Ave East, Toronto ON M1T 3K8"
             }
         },
         {
@@ -41337,8 +41337,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "361a Old Finch Ave, Scarborough ON M1B 5K7"
+                "city": "Toronto",
+                "address": "361a Old Finch Ave, Toronto ON M1B 5K7"
             }
         },
         {
@@ -41352,8 +41352,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "3800 Kingston Rd, Scarborough ON M1J 3H6"
+                "city": "Toronto",
+                "address": "3800 Kingston Rd, Toronto ON M1J 3H6"
             }
         },
         {
@@ -41367,8 +41367,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4 Lebovic Ave, Scarborough ON M1L 2L6"
+                "city": "Toronto",
+                "address": "4 Lebovic Ave, Toronto ON M1L 2L6"
             }
         },
         {
@@ -41382,8 +41382,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4000 Finch Ave East, Scarborough ON M1S 3T6"
+                "city": "Toronto",
+                "address": "4000 Finch Ave East, Toronto ON M1S 3T6"
             }
         },
         {
@@ -41397,8 +41397,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "415 Danforth Rd, Scarborough ON M1L 2X8"
+                "city": "Toronto",
+                "address": "415 Danforth Rd, Toronto ON M1L 2X8"
             }
         },
         {
@@ -41412,8 +41412,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4186 Finch Ave East, Scarborough ON M1V 5P6"
+                "city": "Toronto",
+                "address": "4186 Finch Ave East, Toronto ON M1V 5P6"
             }
         },
         {
@@ -41427,8 +41427,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4200 Sheppard Ave East, Scarborough ON M1S 1T3"
+                "city": "Toronto",
+                "address": "4200 Sheppard Ave East, Toronto ON M1S 1T3"
             }
         },
         {
@@ -41442,8 +41442,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4228 Midland Ave, Scarborough ON M1V 4S7"
+                "city": "Toronto",
+                "address": "4228 Midland Ave, Toronto ON M1V 4S7"
             }
         },
         {
@@ -41457,8 +41457,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4351 Kingston Rd, Scarborough ON M1E 2M9"
+                "city": "Toronto",
+                "address": "4351 Kingston Rd, Toronto ON M1E 2M9"
             }
         },
         {
@@ -41472,8 +41472,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "438 Nugget Ave, Scarborough ON M1S 5E1"
+                "city": "Toronto",
+                "address": "438 Nugget Ave, Toronto ON M1S 5E1"
             }
         },
         {
@@ -41487,8 +41487,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4479 Kingston Rd, Scarborough ON M1E 2N7"
+                "city": "Toronto",
+                "address": "4479 Kingston Rd, Toronto ON M1E 2N7"
             }
         },
         {
@@ -41502,8 +41502,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "4820 Sheppard Ave East Unit 27, Unit 27, Scarborough ON M1S 4N5"
+                "city": "Toronto",
+                "address": "4820 Sheppard Ave East Unit 27, Unit 27, Toronto ON M1S 4N5"
             }
         },
         {
@@ -41517,8 +41517,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "5220 Finch Ave East, Scarborough ON M1S 4Z6"
+                "city": "Toronto",
+                "address": "5220 Finch Ave East, Toronto ON M1S 4Z6"
             }
         },
         {
@@ -41532,8 +41532,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "5445 Steeles Ave, Scarborough ON M1V 5C2"
+                "city": "Toronto",
+                "address": "5445 Steeles Ave, Toronto ON M1V 5C2"
             }
         },
         {
@@ -41547,8 +41547,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "5641 Steeles Ave East, Scarborough ON M1V 5P6"
+                "city": "Toronto",
+                "address": "5641 Steeles Ave East, Toronto ON M1V 5P6"
             }
         },
         {
@@ -41562,8 +41562,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "5975 Steeles Ave E, Scarborough ON M1V 5P6"
+                "city": "Toronto",
+                "address": "5975 Steeles Ave E, Toronto ON M1V 5P6"
             }
         },
         {
@@ -41577,8 +41577,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "60 Tuxedo Court, Scarborough ON M1G 3S3"
+                "city": "Toronto",
+                "address": "60 Tuxedo Court, Toronto ON M1G 3S3"
             }
         },
         {
@@ -41592,8 +41592,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "627 pharmacy ave, Scarborough ON M1L 3H3"
+                "city": "Toronto",
+                "address": "627 pharmacy ave, Toronto ON M1L 3H3"
             }
         },
         {
@@ -41607,8 +41607,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "678-682 Kennedy Rd, Scarborough ON M1K 2B5"
+                "city": "Toronto",
+                "address": "678-682 Kennedy Rd, Toronto ON M1K 2B5"
             }
         },
         {
@@ -41622,8 +41622,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "6780 Kingston Rd, Scarborough ON M1B 1G8"
+                "city": "Toronto",
+                "address": "6780 Kingston Rd, Toronto ON M1B 1G8"
             }
         },
         {
@@ -41637,8 +41637,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "720 Warden Ave, Scarborough ON M1L 4A1"
+                "city": "Toronto",
+                "address": "720 Warden Ave, Toronto ON M1L 4A1"
             }
         },
         {
@@ -41652,8 +41652,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "7337 Kingston Rd, Scarborough ON M1B 5S3"
+                "city": "Toronto",
+                "address": "7337 Kingston Rd, Toronto ON M1B 5S3"
             }
         },
         {
@@ -41667,8 +41667,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "75 Ashtonbee Rd, Scarborough ON M1L 4N4"
+                "city": "Toronto",
+                "address": "75 Ashtonbee Rd, Toronto ON M1L 4N4"
             }
         },
         {
@@ -41682,8 +41682,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "75 Ellesmere Rd, Unit 4b, Scarborough ON M1R 4B7"
+                "city": "Toronto",
+                "address": "75 Ellesmere Rd, Unit 4b, Toronto ON M1R 4B7"
             }
         },
         {
@@ -41697,8 +41697,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "755 Morningside Ave, Box 631, Scarborough ON M1K 5E9"
+                "city": "Toronto",
+                "address": "755 Morningside Ave, Box 631, Toronto ON M1K 5E9"
             }
         },
         {
@@ -41712,8 +41712,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "768 Warden Avenue, Scarborough ON M1L 4A8"
+                "city": "Toronto",
+                "address": "768 Warden Avenue, Toronto ON M1L 4A8"
             }
         },
         {
@@ -41727,8 +41727,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "8129 Sheppard Ave, Scarborough ON M1B 6A3"
+                "city": "Toronto",
+                "address": "8129 Sheppard Ave, Toronto ON M1B 6A3"
             }
         },
         {
@@ -41742,8 +41742,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "875 Morningside Rd, Scarborough ON M1C 0C7"
+                "city": "Toronto",
+                "address": "875 Morningside Rd, Toronto ON M1C 0C7"
             }
         },
         {
@@ -41757,8 +41757,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "91 Guildwood Pky, Scarborough ON M1E 4V2"
+                "city": "Toronto",
+                "address": "91 Guildwood Pky, Toronto ON M1E 4V2"
             }
         },
         {
@@ -41772,8 +41772,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "960 Warden Ave, Scarborough ON M1L 4C9"
+                "city": "Toronto",
+                "address": "960 Warden Ave, Toronto ON M1L 4C9"
             }
         },
         {
@@ -41787,8 +41787,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "C-2600 Birchmount Road, Scarborough ON M1T 2M5"
+                "city": "Toronto",
+                "address": "C-2600 Birchmount Road, Toronto ON M1T 2M5"
             }
         },
         {
@@ -41802,8 +41802,8 @@
             },
             "properties": {
                 "province": "Ontario",
-                "city": "Scarborough",
-                "address": "Marketplace, 941 Progress Avenue, Scarborough ON M1G 3T8"
+                "city": "Toronto",
+                "address": "Marketplace, 941 Progress Avenue, Toronto ON M1G 3T8"
             }
         },
         {
@@ -55572,8 +55572,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Québec",
-                "address": "2600 Boulevard Laurier, Québec QC G1V 4T3"
+                "city": "Quebec",
+                "address": "2600 Boulevard Laurier, Quebec QC G1V 4T3"
             }
         },
         {
@@ -55587,8 +55587,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Québec",
-                "address": "589 Boulevard Wilfrid-hamel, Québec QC G1M 2T2"
+                "city": "Quebec",
+                "address": "589 Boulevard Wilfrid-hamel, Quebec QC G1M 2T2"
             }
         },
         {
@@ -56187,8 +56187,8 @@
             },
             "properties": {
                 "province": "Quebec",
-                "city": "Saint Lazare",
-                "address": "1766 Chemin Ste Angelique, Saint Lazare QC J7T 2X8"
+                "city": "Saint-Lazare",
+                "address": "1766 Chemin Ste Angelique, Saint-Lazare QC J7T 2X8"
             }
         },
         {

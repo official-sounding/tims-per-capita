@@ -24,7 +24,7 @@ foreach(var (city, count) in timsByCity)
         percapita.Add((city, count, cityPop, pc));
     } else
     {
-        Console.WriteLine($"Could not find a population value for {city}");
+        Console.WriteLine($"Could not find a population value for {city} ({count})");
     }
 }
 

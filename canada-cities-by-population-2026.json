@@ -735,11 +735,6 @@
     "growthRate": 0.01794140239218689
   },
   {
-    "city": "Langley",
-    "pop2026": 36906,
-    "growthRate": 0.04124816612120519
-  },
-  {
     "city": "Sorel-Tracy",
     "pop2026": 36859,
     "growthRate": 0.008812984098311327
@@ -1165,8 +1160,8 @@
     "growthRate": 0.0023731968357374456
   },
   {
-    "city": "Lloydminster (Part)",
-    "pop2026": 21410,
+    "city": "Lloydminster",
+    "pop2026": 34680,
     "growthRate": 0.00672403253867504
   },
   {
@@ -1446,6 +1441,11 @@
   },
   {
     "city": "Leduc County",
+    "pop2026": 16835,
+    "growthRate": 0.026524390243902518
+  },
+  {
+    "city": "Edmonton Intl Airport",
     "pop2026": 16835,
     "growthRate": 0.026524390243902518
   },
@@ -1783,11 +1783,6 @@
     "city": "Kincardine",
     "pop2026": 13304,
     "growthRate": 0.010251347862404225
-  },
-  {
-    "city": "Lloydminster (Part)",
-    "pop2026": 13270,
-    "growthRate": 0.010124077034330492
   },
   {
     "city": "Bonnyville No. 87",
@@ -3420,6 +3415,11 @@
     "growthRate": 0.008983530194643263
   },
   {
+    "city": "Crowsnest Pass",
+    "pop2026": 6065,
+    "growthRate": 0.008983530194643263
+  },
+  {
     "city": "Cochrane",
     "pop2026": 6048,
     "growthRate": 0.0168123739071957
@@ -3653,6 +3653,12 @@
     "city": "Grand Falls / Grand-Sault",
     "pop2026": 5498,
     "growthRate": 0.006038426349496806
+  },
+  {
+     "city": "Langdon",
+     "province": "Alberta",
+     "pop2026": 5497,
+     "growthRate": 0
   },
   {
     "city": "Juan de Fuca (Part 1)",
@@ -7155,7 +7161,7 @@
     "growthRate": -0.007299270072992692
   },
   {
-    "city": "One Hundred Mile House",
+    "city": "100 Mile House",
     "pop2026": 2039,
     "growthRate": 0.004433497536945774
   },
