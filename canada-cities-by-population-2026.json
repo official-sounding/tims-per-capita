@@ -205,7 +205,7 @@
     "growthRate": 0.0312307350090566
   },
   {
-    "city": "St. Catharines",
+    "city": "St Catharines",
     "pop2026": 156617,
     "growthRate": 0.017885808988398866
   },
@@ -438,6 +438,11 @@
     "city": "Granby",
     "pop2026": 72925,
     "growthRate": 0.010321418675533378
+  },
+  {
+    "city": "Fort McMurray",
+    "pop2026": 72917,
+    "growthRate": 0
   },
   {
     "city": "Grande Prairie",
@@ -1441,6 +1446,11 @@
   },
   {
     "city": "Leduc County",
+    "pop2026": 16835,
+    "growthRate": 0.026524390243902518
+  },
+  {
+    "city": "Edmonton Airport",
     "pop2026": 16835,
     "growthRate": 0.026524390243902518
   },
@@ -9826,7 +9836,8 @@
   },
   {
     "city": "Maidstone",
-    "pop2026": 1225,
+    "province": "Ontario",
+    "pop2026": 300,
     "growthRate": 0.002454991816693841
   },
   {
