@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="tims-per-capita.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/Loader/Loader.csproj" />
+  </Folder>
+  <Project Path="src/FirstPass/tims-per-capita.csproj" />
 </Solution>

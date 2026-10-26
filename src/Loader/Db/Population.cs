@@ -1,0 +1,1 @@
+public record PopulationRow(long Id, string City, string Province, long Population);
